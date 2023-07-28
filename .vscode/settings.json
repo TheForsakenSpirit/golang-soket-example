@@ -1,0 +1,4 @@
+{
+    "files.autoSave": "afterDelay",
+    "gopls": { "ui.semanticTokens": true }
+}
